@@ -38,7 +38,7 @@ var omikujiList = []OmikujiResult{
 	{Result: "小吉", Message: "小さな幸せが訪れるでしょう。"},
 	{Result: "吉", Message: "穏やかな一日になりそうです。"},
 	{Result: "末吉", Message: "努力が実を結ぶ兆しがあります。"},
-	{Result: "凶", Message: "慎重に行動することをお勧めします。"},
+	{Result: "凶", Message: "外出はしないようにしましょう。"},
 	{Result: "大凶", Message: "今日は控えめに過ごしましょう。"},
 }
 
